@@ -119,10 +119,4 @@ The project includes various visualizations to help understand the data:
 
 ![Future Directions](Images/33.png)
 
-## Contact
 
-For questions or collaboration opportunities, please contact [Your Name] at [your.email@example.com].
-
----
-
-*This project was completed as part of the Data Mining course (CMPE 255).*
